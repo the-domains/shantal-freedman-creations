@@ -1,6 +1,6 @@
 name: Shantal Freedman Creations
 favicon: null
-layout_spectrum: 0.4674606753978878
+layout_spectrum: 0.42411
 typography_spectrum: 0.73639
 title: Shantal Freedman Creations
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.9798074662685394
+  brandStrength: 0.25
   lightness: 0.8460488405544311
-  saturation: 0.349443840328604
+  saturation: 0.4375
   rhythmicContrast: 0.663526994176209
 purpose: []
