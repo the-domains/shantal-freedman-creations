@@ -1,0 +1,28 @@
+name: Shantal Freedman Creations
+favicon: null
+layout_spectrum: 0.4674606753978878
+typography_spectrum: 0.36200317251496017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9798074662685394
+  lightness: 0.8460488405544311
+  saturation: 0.349443840328604
+  rhythmicContrast: 0.663526994176209
+purpose: []
